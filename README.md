@@ -15,8 +15,7 @@ Then simply click the extension and you shall see a popup with two buttons :
 1. Group
 2. Ungroup
 
-When you click the Group button, if there are multiple tabs from the same website or a tab not in
-its group, then all such tabs come under a group with title as name of website. The color of the 
+When you click the Group button, if there are multiple tabs from the same website, then all such tabs come under a group with title as name of website. The color of the 
 group is also based on website's theme.
 
 When you click the Ungroup button, it simply ungroups all the groups.
