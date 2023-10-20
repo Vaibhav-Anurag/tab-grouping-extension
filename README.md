@@ -20,5 +20,9 @@ group is also based on website's theme.
 
 When you click the Ungroup button, it simply ungroups all the groups.
 
+https://github.com/Vaibhav-Anurag/tab-grouping-extension/assets/113437232/6e773aa3-e506-4a60-a9ed-e56c7c0e91d6
+
+
+
 
 
